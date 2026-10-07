@@ -5,7 +5,7 @@ pipeline {
         DOCKER_USERNAME = "ranguharini"
         DOCKER_PASSWORD = "harini@2005"
 
-        IMAGE_NAME = "sumayyasadaf/registration-form"
+        IMAGE_NAME = "ranguharini/week8"
         IMAGE_TAG = "latest"
     }
 
